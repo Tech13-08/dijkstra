@@ -1,0 +1,5 @@
+node 1 splitString 4
+node 2 splitString 2
+node 3 splitString 6
+node 4 splitString 1
+node 5 splitString 9
