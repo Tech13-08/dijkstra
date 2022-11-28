@@ -1,5 +1,5 @@
 # dijkstra.py
-A python script that uses the dijkstra algorithmn to find the shortest path tree in a tree of nodes
+A python script that uses the dijkstra algorithm to find the shortest path tree in a tree of nodes
 
 # Text Files
 If you want to use text files rather than manually entering the names and values, use the node 0.txt as a template to guide you.
