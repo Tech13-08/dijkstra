@@ -76,6 +76,7 @@ stopNum = 97        # Max distance a node can be from the starting node before t
 lowestNode = ("", stopNum)       # Tuple to hold the lowest node of all currently known nodes
 initialNode = {}     # The initial node
 
+
 # This is how to run the algorithm
 # reset()
 # while(recentMinNum < stopNum):
